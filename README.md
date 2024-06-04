@@ -5,7 +5,7 @@
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" />
 </p>
 
-`[!!|ghb>language:C]`
+`[!!|ghb>contributors:3]`
 
 ## Included Functions
 
