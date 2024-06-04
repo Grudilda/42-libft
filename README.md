@@ -5,6 +5,8 @@
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" />
 </p>
 
+`[!!|ghb>language:C]`
+
 ## Included Functions
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
