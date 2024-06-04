@@ -10,7 +10,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
- [![General badge](https://img.shields.io/badge/C-language-blue.svg?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/)
+ [![General badge](https://img.shields.io/badge/-language-blue.svg?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/)
 
 ## Usage
 
