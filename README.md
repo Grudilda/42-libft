@@ -5,11 +5,12 @@
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" />
 </p>
 
-`[!!|ghb>contributors:3]`
 
 ## Included Functions
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+ [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 ## Usage
 
