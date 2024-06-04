@@ -8,9 +8,7 @@
 
 ## Included Functions
 
-![C](https://badgen.net/static/language/C/blue)
-
- [![Makefile](https://badgen.net/static/build/Makefile/green)]
+![C](https://badgen.net/static/language/C/blue) ![Makefile](https://badgen.net/static/build/Makefile/green)
 
 ## Usage
 
