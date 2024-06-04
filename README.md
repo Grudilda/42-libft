@@ -1,6 +1,6 @@
 # 42-libft
 
-### Included Functions
+## Included Functions
 
 #### Mandatory Functions
 
