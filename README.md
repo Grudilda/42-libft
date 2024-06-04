@@ -2,7 +2,7 @@
 
 ## Included Functions
 
-#### Mandatory Functions
+### Mandatory Functions
 
 The mandatory functions of libft are either functions from the standard C library or other useful functions. They are mostly useful for character, string and memory manipulation. These 34 mandatory functions must be done correctly to get a 100% grade.
 
@@ -55,7 +55,7 @@ Functions to write to a file descriptor
    - ft_putendl_fd
    - ft_putnbr_fd
 
-Bonus Functions
+##Bonus Functions
 
 The bonus functions of libft deal with list manipulation. This part is worth an extra 25% to the final grade.
 
