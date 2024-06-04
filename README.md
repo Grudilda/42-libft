@@ -8,7 +8,7 @@
 
 ## Included Functions
 
-![C](https://img.shields.io/badge/Makefile-blue.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/M-Makefile-blue.svg?style=for-the-badge&logo=c&logoColor=white)
 
  [![General badge](https://img.shields.io/badge/-language-turquoise.svg?style=for-the-badge&logo=c&logoColor=white)](https://shields.io/)
 
