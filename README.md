@@ -2,6 +2,21 @@
 
 ## Included Functions
 
+## Usage
+
+To compile the mandatory part :
+```
+make
+```
+
+To compile the bonus part :
+```
+make bonus
+```
+
+
+## Included Functions
+
 ### Mandatory Functions
 
 The mandatory functions of libft are either functions from the standard C library or other useful functions. They are mostly useful for character, string and memory manipulation. These 34 mandatory functions must be done correctly to get a 100% grade.
