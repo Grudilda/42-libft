@@ -79,7 +79,7 @@ Functions to write on a specific file descriptor
 
 ### Bonus Functions
 
-The bonus functions deal with linked list manipulation. If all the bonus functions works good, it adds extras 25 points to the final grade.
+The bonus functions deal with linked list manipulation. If all the bonus functions work good, it adds extras 25 points to the final grade.
 
    - ft_lstnew
    - ft_lstadd_front
