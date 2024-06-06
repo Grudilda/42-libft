@@ -7,7 +7,7 @@ This project is aimed to grow, as we go along the futures projects, with other u
 
 
 ![Validation](https://badgen.net/static/validation/04.06.2024/green)  ![Grade](https://badgen.net/static/grade/125/4cc9f0)  ![C](https://badgen.net/static/language/C/blue)  ![Makefile](https://badgen.net/static/build/Makefile/4361ee)
- 
+
 
 ## Compilation
 
@@ -26,7 +26,7 @@ make bonus
 
 ### Mandatory Functions
 
-The mandatory functions of libft are either functions from the standard C library or other useful functions. They are mostly useful for character, string and memory manipulation. These 34 mandatory functions must be done correctly to get a 100% grade.
+The mandatory functions of libft are either functions from the standard C library or other useful functions create or modify for the project. They are mostly useful for character, string and memory manipulation. There are 34 mandatory functions which must work as the originals ones in libc or work as ask in the subject to get a grade 100.
 
 Functions to check and manipulate characters:
 
@@ -65,12 +65,12 @@ Functions to manipulate memory:
    - ft_memcmp
    - ft_strdup
 
-Functions for numbers:
+Functions for numbers/string conversion:
 
    - ft_atoi
    - ft_itoa
 
-Functions to write to a file descriptor
+Functions to write on a specific file descriptor
 
    - ft_putchar_fd
    - ft_putstr_fd
@@ -79,7 +79,7 @@ Functions to write to a file descriptor
 
 ### Bonus Functions
 
-The bonus functions of libft deal with list manipulation. This part is worth an extra 25% to the final grade.
+The bonus functions deal with linked list manipulation. This part worth extras 25 points to the final grade.
 
    - ft_lstnew
    - ft_lstadd_front
