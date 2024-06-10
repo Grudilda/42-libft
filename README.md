@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" />
-</p>
+# 42-libft
 
 42 school's first project, libft, is about learning how the standard functions of C programming work, by coding them from scratch and creating our very own library.
 This project is aimed to grow, as we go along the futures projects, with other useful functions.
 
-
 ![Validation](https://badgen.net/static/validation/04.06.2024/green)  ![Grade](https://badgen.net/static/grade/125/4cc9f0)  ![C](https://badgen.net/static/language/C/blue)  ![Makefile](https://badgen.net/static/build/Makefile/4361ee)
-
+##  
 
 ## Compilation
 
@@ -90,3 +87,5 @@ The bonus functions deal with linked list manipulation. If all the bonus functio
    - ft_lstclear
    - ft_lstiter
    - ft_lstmap
+
+ ---
